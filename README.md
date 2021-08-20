@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpulekar&label=Profile%20views&color=0e75b6&style=flat" alt="surajpulekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajpulekar" alt="surajpulekar" /></a> </p>
-
+<image class="badge-icon" xlink:href="https://hrcdn.net/community-frontend/assets/badges/python-f70befd824.svg" x="50%" y="22" height="27" width="27" transform="translate(-13.5, 0)"></image>
 - 🌱 I’m currently learning **web development , data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajp0306](https://github.com/surajp0306)
