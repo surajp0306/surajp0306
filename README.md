@@ -32,3 +32,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajpulekar&show_icons=true&locale=en" alt="surajpulekar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajpulekar&" alt="surajpulekar" /></p>
+
+def logic(account, today, prediction, confidence):
+    
+    if prediction == 1:
+        Risk         = 0.30
+        EntryPrice   = today['close']
+        EntryCapital = account.BuyingPower*Risk
+        if EntryCapital >= 0:
+            account.EnterPosition('Long', EntryCapital, EntryPrice)
+
+    if prediction == -1:
+        ExitPrice = today['close']
+        for Position in account.Positions:  
+            if Position.Type == 'Long':
+                account.ClosePosition(Position, 1.0, ExitPrice)
+
+
+simulation = backtester.Simulation(features, trainStart, trainEnd, testStart, testEnd, buyThreshold, sellThreshold, continuedTraining)
+simulation.start(data, 1000, logic, kernel='rbf', C=1, gamma=10)
+simulation.statistics()
+simulation.chart('SBUX')
