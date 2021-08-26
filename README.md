@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I think I need more time**
 
-
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
