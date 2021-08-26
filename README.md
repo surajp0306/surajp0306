@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SURAJ PULEKAR</h1>
-<img align="right" alt="GIF" src="http://clipart-library.com/images/di9peogpT.gif?raw=true" width="300" height="380" />
 <img align="left" alt="GIF" src="https://thumbs.gfycat.com/AlienatedNiftyIbex.webp?raw=true" width="300" height="380" />
 
 <h3 align="left">A passionate python developer from India</h3>
@@ -18,8 +17,8 @@
 
 - ⚡ Fun fact **I think I need more time**
 
- 
-<img align="right" alt="GIF" src="https://giffiles.alphacoders.com/211/211988.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" src="http://clipart-library.com/images/di9peogpT.gif?raw=true" width="300" height="380" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
