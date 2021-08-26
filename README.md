@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SURAJ PULEKAR</h1>
 <h3 align="center">A passionate python developer from India</h3>
+background: linear-gradient(-45deg, #F34417, #F9F8F8, #0649CC, #06CC26);
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpulekar&label=Profile%20views&color=0e75b6&style=flat" alt="surajpulekar" /> </p>
 
