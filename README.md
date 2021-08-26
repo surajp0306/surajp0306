@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURAJ PULEKAR</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3 align="center">A passionate python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpulekar&label=Profile%20views&color=0e75b6&style=flat" alt="surajpulekar" /> </p>
@@ -15,7 +16,6 @@
 
 - ⚡ Fun fact **I think I need more time**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpulekar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
