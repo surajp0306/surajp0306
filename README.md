@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURAJ PULEKAR</h1>
-<img align="right" alt="GIF" src="http://clipart-library.com/images/di9peogpT.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="http://clipart-library.com/images/di9peogpT.gif?raw=true" width="300" height="380" />
 
 <h3 align="left">A passionate python developer from India</h3>
 
