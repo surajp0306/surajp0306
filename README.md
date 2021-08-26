@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURAJ PULEKAR</h1>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/3b/f1/8f/3bf18f8244b321318bd4b137d5c620c8.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c7c7377-ac36-443f-a71c-13f35e4650e5/dcemszi-97682324-a776-41ac-a5d3-5d86c23fec60.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljN2M3Mzc3LWFjMzYtNDQzZi1hNzFjLTEzZjM1ZTQ2NTBlNVwvZGNlbXN6aS05NzY4MjMyNC1hNzc2LTQxYWMtYTVkMy01ZDg2YzIzZmVjNjAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WaCoyfuyH804eUdb4eRoT6N-iBi1TcEe11_CV5q2-9M?raw=true" width="500" height="320" />
 
 <h3 align="left">A passionate python developer from India</h3>
 
