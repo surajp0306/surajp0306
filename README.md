@@ -14,7 +14,6 @@
 - 📫 How to reach me **surajpulekar0306@gmail.com**
 
 - ⚡ Fun fact **I think I need more time**
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=surajp0306)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
