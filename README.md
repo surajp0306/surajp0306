@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact **I think I need more time**
 
-  
+ 
+<img align="right" alt="GIF" src="https://giffiles.alphacoders.com/211/211988.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,5 +63,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surajpulekar&" alt="surajpulekar" /></p>
 
-<img align="right" alt="GIF" src="https://giffiles.alphacoders.com/211/211988.gif?raw=true" width="400" height="220" />
 
