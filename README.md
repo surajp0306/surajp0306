@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SURAJ PULEKAR</h1>
 <img float="left" alt="GIF" src="https://thumbs.gfycat.com/AlienatedNiftyIbex.webp?raw=true" width="300" height="380" />
 
+<img float="right" alt="GIF" src="https://giffiles.alphacoders.com/351/35158.gif?raw=true" width="300" height="380" /
+
 <h3 align="left">A passionate python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpulekar&label=Profile%20views&color=0e75b6&style=flat" alt="surajpulekar" /> </p>
